@@ -17,7 +17,7 @@
 
 Hi, I'm [Chris Barber-Riley](https://www.barberriley/), a Full Stack Developer 🚀 from the UK.
 
-  <img align="right" alt="GIF" src="https://i.ibb.co/LvnFhL6/ef0936558e58d6bebf73fee2ae895fe3.gif" width="500" />
+  <img align="right" alt="GIF" src="https://i.ibb.co/LvnFhL6/ef0936558e58d6bebf73fee2ae895fe3.gif" width="350" />
   
 **Talking about Personal Stuffs:**
 
