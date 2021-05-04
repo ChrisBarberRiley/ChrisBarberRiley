@@ -22,7 +22,7 @@ Hi, I'm [Chris Barber-Riley](https://www.barberriley/), a Full Stack Developer �
 **Talking about Personal Stuffs:**
 
 - 👨 I’m currently working on ReactJS, Mongo, Express
-- 🌱 I’m currently learning Docker next up is system architecture; 
+- 🌱 I’m currently learning Firebase; 
 - 💬 Ask me about anything, I'm always happy to help;
 - 📫 How to reach me: [@chris_gbr](https://twitter.com/chris_gbr)
 
