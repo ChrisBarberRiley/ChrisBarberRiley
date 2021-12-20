@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Chris Barber-Riley](https://www.barberriley.com/), a Full Stack Developer 🚀 from the UK.
+Hi, I'm [Chris Barber-Riley](https://www.barberriley.com/), Currently Head of Engineering from the UK. I'm a full stack developer and love all things JavaScript (primarily React) 🚀
 
   <img align="right" alt="GIF" src="https://i.ibb.co/LvnFhL6/ef0936558e58d6bebf73fee2ae895fe3.gif" width="350" />
   
